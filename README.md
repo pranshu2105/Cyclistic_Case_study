@@ -12,3 +12,9 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 ### Tableau Visualization
 You can finad all the charts and final dashboard created on Tableau Public [Click Here](https://public.tableau.com/app/profile/pranshu.jain3793/viz/Cyclistic_Case_Study_Viz/CyclisticDashboard)
+
+### Social Profiles
+
+If you want to contact me, find me here:
+Gmail: pranshu2105j@gmail.com
+LinkedIn: [Link](linkedin.com/in/pranshu-jain-7689041a5)
