@@ -3,7 +3,6 @@
 library(tidyverse)
 library(janitor)
 library(lubridate)
-library(scales)
 library(skimr)
 
 # 2. Remove any data from the environment
