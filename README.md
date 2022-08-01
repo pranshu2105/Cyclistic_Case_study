@@ -10,6 +10,10 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
+## Datasets
+I had used Cyclistic’s historical trip data to analyze and identify trends. You can download the previous 12 months of Cyclistic trip data [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+(Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and will enable you to answer the business questions. The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).)
+
 ## Tableau Visualization
 You will find all the charts and final dashboard created on Tableau Public -> [Click Here](https://public.tableau.com/app/profile/pranshu.jain3793/viz/Cyclistic_Case_Study_Viz/CyclisticDashboard)
 
