@@ -14,7 +14,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 You will find all the charts and final dashboard created on Tableau Public -> [Click Here](https://public.tableau.com/app/profile/pranshu.jain3793/viz/Cyclistic_Case_Study_Viz/CyclisticDashboard)
 
 ## Documentation
-You will find my project documentation through this [link](https://www.canva.com/design/DAFH5aVkhEY/ImqqVNi3rDQTe4zPH_FLoQ/view?utm_content=DAFH5aVkhEY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) or can download from above. I had explained everything about my project in project documentation.
+You will find my project documentation through this [link](https://www.canva.com/design/DAFH5aVkhEY/ImqqVNi3rDQTe4zPH_FLoQ/view?utm_content=DAFH5aVkhEY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) or can download from above. I had explained every step of my project in project documentation.
 
 ## Project Report
 You will find my final project report through this [link](https://www.canva.com/design/DAFHuO9MCsM/EUtjMDfxQDald7kVsoOWaA/view?utm_content=DAFHuO9MCsM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) or can download from above.
